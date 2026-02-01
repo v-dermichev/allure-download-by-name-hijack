@@ -1,0 +1,1 @@
+# allure-download-by-name-hijack
